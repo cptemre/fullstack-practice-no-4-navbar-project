@@ -1,0 +1,9 @@
+![Example](public/navigationProject.png)
+
+# NAVBAR PROJECT
+
+## FULLSTACK PRACTICE PROJECT NO: 4
+
+1. A fullstack version of my previous frontend project to practice my skills.
+
+2. Simple project without any button function.
